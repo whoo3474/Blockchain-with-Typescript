@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "prestart" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoo3474/Blockchain-with-Typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoo3474/Blockchain-with-Typescript/issues"
+  },
+  "homepage": "https://github.com/whoo3474/Blockchain-with-Typescript#readme"
+}
